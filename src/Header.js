@@ -4,7 +4,7 @@ function Header(props){
     return(
         <div>
            <nav>
-               <h1>React Meals</h1>
+               <h1>React Meals App</h1>
                <a href="">Orders</a>
                <a href="">Services</a>
                <a href="">ContactUs</a>
